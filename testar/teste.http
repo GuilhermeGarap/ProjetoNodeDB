@@ -1,0 +1,7 @@
+POST http://localhost:5252/cadastrar
+Content-Type: application/json
+
+{
+    "name": "Rodrigo2",
+    "email": "rodrigão2@gmail.com"
+}
